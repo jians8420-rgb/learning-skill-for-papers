@@ -1,0 +1,8 @@
+{
+  "foundation": "生存分析和迁移学习基础",
+  "enabled": true,
+  "repository": "jians8420-rgb/learning-skill-for-papers",
+  "branch": "main",
+  "remote_path": "foundations/生存分析和迁移学习基础",
+  "skill_remote_path": "skills/paper-tutor"
+}
