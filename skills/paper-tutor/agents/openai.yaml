@@ -1,4 +1,0 @@
-interface:
-  display_name: "论文递进学习"
-  short_description: "依据已有基础分段带读论文，通过小例子和单个问题逐层推进并记录进度"
-  default_prompt: "请用 $paper-tutor，结合我指定的基础和最新进度带我学习这篇论文，每次只推进一个核心问题。"

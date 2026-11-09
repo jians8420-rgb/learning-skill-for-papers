@@ -1,0 +1,4 @@
+interface:
+  display_name: "paper-learning｜论文递进学习"
+  short_description: "依据已有基础分段带读论文，通过小例子和单个问题逐层推进并记录进度"
+  default_prompt: "请用 $paper-learning，先让我选择学习基础，再根据该分支最近进度带我学习论文，每次只推进一个核心问题。"
