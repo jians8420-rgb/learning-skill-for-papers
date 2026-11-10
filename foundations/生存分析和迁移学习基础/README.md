@@ -8,14 +8,14 @@
 
 1. [最新学习进度](学习进度.md)：先读当前理解、证据来源、待巩固点、下一步及教学偏好。
 2. 需要生存分析基础细节时读 [教材学习交接](records/生存分析学习交接文档.md)。
-3. 当前方法复习读[第五部分目标验证与IPCW](notes/Joint-Likelihood-Transfer%20第五部分.md)及[第四部分似然与估计](notes/Joint-Likelihood-Transfer%20第四部分.md)。历史过程读 [第一部分](records/生存分析论文学习记录%20第一部分.md)、[第二部分](records/生存分析学习交接%20第二部分新增进展.md) 和 [第三部分](records/生存分析学习交接%20第三部分新增进展.md)。
+3. 当前论文复习读[第六部分实验与证据](notes/Joint-Likelihood-Transfer%20第六部分.md)、[第五部分目标验证与IPCW](notes/Joint-Likelihood-Transfer%20第五部分.md)及[第四部分似然与估计](notes/Joint-Likelihood-Transfer%20第四部分.md)。历史过程读 [第一部分](records/生存分析论文学习记录%20第一部分.md)、[第二部分](records/生存分析学习交接%20第二部分新增进展.md) 和 [第三部分](records/生存分析学习交接%20第三部分新增进展.md)。
 4. 需要连接已知迁移学习与统计评价时读 [ECG毕设与迁移背景](records/毕设交接文档_已有认识与后续工作.md)。其中项目状态是交接时点的记录，不等同于新近核验。
 
 ## 当前接续位置
 
 论文：Joint Likelihood Transfer for Survival Prediction with Time-Varying Effects，已讨论2026年10月27日39页修订稿。
 
-第五部分目标验证与IPCW Brier概念辅导完成。下一步第六部分实验结果与证据边界。先区分时变建模收益与源数据迁移收益，再读模拟和临床结果；IPCW机制已讲，综合计算仍待验证。
+第六部分实验结果与证据边界概念辅导完成。下一步按用户问题深入原文表格、方法或理论；正式路径可进入理论保证与局限。IPCW综合计算、英文精读和软件实践仍待验证。
 
 ## 更新约定
 
